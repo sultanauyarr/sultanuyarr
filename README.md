@@ -1,19 +1,19 @@
 # 👋 Merhaba, ben Sultan Uyar
 
-Yazılım Mühendisliği öğrencisiyim. Mobil geliştirme alanında kendimi sürekli geliştirerek kullanıcı odaklı, yenilikçi ve yüksek performanslı uygulamalar üretmeyi hedefliyorum.
+Yazılım Mühendisliği öğrencisiyim. Mobil geliştirme ve veri analizi alanında kendimi sürekli geliştirerek kullanıcı odaklı, yenilikçi ve yüksek performanslı uygulamalar üretmek istiyorum.
 
 ---
 
 ## 🎯 İlgi Alanlarım
 
 • 📱 **Mobil Uygulama Geliştirme**  
-Android/iOS platformları için kullanıcı dostu, modern ve performans odaklı uygulamalar geliştiriyorum. Kotlin, Java ve Flutter ile projeler üretiyorum.
+Android/iOS platformları için kullanıcı dostu, modern ve performans odaklı uygulamalar geliştirmek.
 
 • 📊 **Veri Analizi**  
-Python (Pandas, NumPy, Matplotlib) ve SQL kullanarak veriyi analiz etme, yorumlama ve anlamlı hale getirme üzerine çalışıyorum.
+Veriyi analiz etme, yorumlama ve anlamlı hale getirme üzerine çalışmak.
 
 • 🧠 **Makine Öğrenmesi**  
-Temel makine öğrenmesi algoritmaları, sınıflandırma modelleri ve veri ön işleme süreçlerine ilgi duyuyorum.
+Temel makine öğrenmesi algoritmaları, sınıflandırma modelleri ve veri ön işleme alanında gelişmek.
 
 ---
 
