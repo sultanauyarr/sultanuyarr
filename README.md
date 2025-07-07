@@ -6,8 +6,10 @@ Yazılım Mühendisliği öğrencisiyim. Mobil geliştirme alanında kendimi sü
 
 • 📱 **Mobil Uygulama Geliştirme**
 Android/iOS platformları için kullanıcı dostu, modern ve performans odaklı uygulamalar geliştiriyorum. Kotlin, Java ve Flutter ile projeler üretiyorum.
+
 • 📊 **Veri Analizi**  
 Python (Pandas, NumPy, Matplotlib) ve SQL kullanarak veriyi analiz etme, yorumlama ve anlamlı hale getirme üzerine çalışıyorum.
+
 • 🧠 **Makine Öğrenmesi**  
 Temel makine öğrenmesi algoritmaları, sınıflandırma modelleri ve veri ön işleme süreçlerine ilgi duyuyorum.
 
