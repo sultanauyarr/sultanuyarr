@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Sultan Uyar
 
-Yazılım Mühendisliği öğrencisiyim. Mobil geliştirme ve veri analizi alanında kendimi sürekli geliştirerek kullanıcı odaklı, yenilikçi ve yüksek performanslı uygulamalar üretmek istiyorum.
+Yazılım Mühendisliği öğrencisiyim. Mobil geliştirme ve veri analizi alanında kullanıcı odaklı, yenilikçi ve yüksek performanslı uygulamalar geliştirerek üretiyorum.
 
 ---
 
