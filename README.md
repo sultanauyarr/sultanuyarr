@@ -5,6 +5,7 @@ Yazılım Mühendisliği öğrencisiyim. Mobil geliştirme alanında kendimi sü
 ## 🎯 İlgi Alanlarım
 
 • 📱 **Mobil Uygulama Geliştirme**
+
 Android/iOS platformları için kullanıcı dostu, modern ve performans odaklı uygulamalar geliştiriyorum. Kotlin, Java ve Flutter ile projeler üretiyorum.
 
 • 📊 **Veri Analizi**  
